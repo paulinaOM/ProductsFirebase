@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698017575899",
+    "project_id": "movies2706",
+    "storage_bucket": "movies2706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698017575899:android:286147764d3361a2d6edfe",
+        "android_client_info": {
+          "package_name": "com.example.practica4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698017575899-apfs3e8amcc9darbdejb6eb5jlo0g6tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_MDLRM9IquTYGbyf3iePP5ksHO9tOEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698017575899-apfs3e8amcc9darbdejb6eb5jlo0g6tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
